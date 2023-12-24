@@ -1,4 +1,5 @@
 theme: jekyll-theme-midnight
-title: Russell Goyder's GitHub Projects
+title: Russell Goyder's Projects
+description: Personal projects on GitHub
 plugins:
   - jemoji
